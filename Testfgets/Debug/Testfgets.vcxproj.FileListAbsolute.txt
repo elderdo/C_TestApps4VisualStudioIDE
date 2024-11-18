@@ -1,0 +1,2 @@
+C:\Users\zf297a\Documents\C\TestApps\Testfgets\Debug\Testfgets.exe
+C:\Users\zf297a\Documents\C\TestApps\Testfgets\Debug\Testfgets.pdb
